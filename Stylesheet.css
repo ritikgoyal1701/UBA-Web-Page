@@ -1,0 +1,50 @@
+body {
+  background-color: lightgray;
+}
+
+.University_Name {
+  text-align: center;
+  color: aliceblue;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+.data {
+  margin: 1%;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-size: medium;
+  font-weight: initial;
+}
+.team {
+  height: 300px;
+}
+
+.team-body:hover {
+  background-color: lightseagreen;
+}
+
+.team-data {
+  text-align: center;
+}
+.team-card:hover {
+  transform: scale(1.1);
+}
+.team-card {
+  margin-bottom: 2%;
+  transition: 0.3s;
+}
+
+.main {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  width: 50%;
+}
